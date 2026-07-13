@@ -1,0 +1,32 @@
+name: Update Live SIEM Terminal
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Generate SIEM Terminal SVG
+        run: python fetch_threats.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add siem_terminal.svg
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update live threat intel SVG"
+
+          git push origin main
