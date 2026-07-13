@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-07-13]</tspan>
+                <tspan class="cve-id"> CVE-2008-4128 </tspan>
+                <tspan class="vuln-name"> Cisco IOS Cross-Site Request Forgery Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
                 <tspan class="timestamp">[2026-07-10]</tspan>
                 <tspan class="cve-id"> CVE-2026-56291 </tspan>
                 <tspan class="vuln-name"> Balbooa Forms Unrestricted Upload of File with Dangerous Type Vul...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-07-10]</tspan>
                 <tspan class="cve-id"> CVE-2026-48939 </tspan>
                 <tspan class="vuln-name"> iCagenda Unrestricted Upload of File with Dangerous Type Vulnerab...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-07-07]</tspan>
                 <tspan class="cve-id"> CVE-2026-48908 </tspan>
                 <tspan class="vuln-name"> JoomShaper SP Page Builder Unrestricted Upload of File with Dange...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-07-07]</tspan>
                 <tspan class="cve-id"> CVE-2026-55255 </tspan>
                 <tspan class="vuln-name"> Langflow Authorization Bypass Through User-Controlled Key Vulnera...</tspan>
             </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-07-07]</tspan>
-                <tspan class="cve-id"> CVE-2026-56290 </tspan>
-                <tspan class="vuln-name"> Joomlack Page Builder Improper Access Control Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-13 16:23:59 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-13 19:08:30 UTC</text>
         </svg>
