@@ -1,5 +1,6 @@
 import json
 import urllib.request
+from datetime import datetime, timezone
 
 URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
 
@@ -12,8 +13,10 @@ def generate_svg():
         vulns = sorted(
             data["vulnerabilities"],
             key=lambda x: x["dateAdded"],
-            reverse=True
+            reverse=True,
         )[:5]
+
+        current_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
         terminal_lines = ""
         for idx, vuln in enumerate(vulns):
@@ -38,6 +41,7 @@ def generate_svg():
             .bg {{ fill: #0D1117; stroke: #30363D; stroke-width: 1px; }}
             .header-bg {{ fill: #161B22; }}
             .font-mono {{ font-family: 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New', monospace; font-size: 14px; }}
+            .footer-text {{ font-family: 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New', monospace; font-size: 12px; fill: #484F58; }}
 
             .prompt {{ fill: #58A6FF; font-weight: bold; }}
             .cursor {{ fill: #C9D1D9; animation: blink 1s step-end infinite; }}
@@ -82,6 +86,8 @@ def generate_svg():
                 {terminal_lines}
             </g>
         </g>
+
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: {current_time}</text>
         </svg>"""
 
         with open("siem_terminal.svg", "w") as f:
@@ -91,6 +97,7 @@ def generate_svg():
 
     except Exception as e:
         print(f"Pipeline Failed: {e}")
+
 
 if __name__ == "__main__":
     generate_svg()
