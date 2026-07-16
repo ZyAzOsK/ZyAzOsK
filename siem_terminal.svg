@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-07-16]</tspan>
+                <tspan class="cve-id"> CVE-2026-58644 </tspan>
+                <tspan class="vuln-name"> Microsoft SharePoint Deserialization of Untrusted Data Vulnerabil...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-07-16]</tspan>
+                <tspan class="cve-id"> CVE-2026-25089 </tspan>
+                <tspan class="vuln-name"> Fortinet FortiSandbox OS Command Injection Vulnerability</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
+                <tspan class="timestamp">[2026-07-16]</tspan>
+                <tspan class="cve-id"> CVE-2026-39808 </tspan>
+                <tspan class="vuln-name"> Fortinet FortiSandbox OS Command Injection Vulnerability</tspan>
+            </text>
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-07-15]</tspan>
                 <tspan class="cve-id"> CVE-2026-46817 </tspan>
                 <tspan class="vuln-name"> Oracle E-Business Suite Improper Privilege Management Vulnerabili...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-07-15]</tspan>
                 <tspan class="cve-id"> CVE-2023-4346 </tspan>
                 <tspan class="vuln-name"> KNX Association KNX Protocol Connection Authorization Option 1 Ov...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-07-14]</tspan>
-                <tspan class="cve-id"> CVE-2026-56155 </tspan>
-                <tspan class="vuln-name"> Microsoft Active Directory Federation Services Insufficient Granu...</tspan>
-            </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-07-14]</tspan>
-                <tspan class="cve-id"> CVE-2026-56164 </tspan>
-                <tspan class="vuln-name"> Microsoft SharePoint Server Missing Authentication for Critical F...</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-07-14]</tspan>
-                <tspan class="cve-id"> CVE-2026-15409 </tspan>
-                <tspan class="vuln-name"> SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerab...</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-16 13:14:05 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-16 18:52:55 UTC</text>
         </svg>
