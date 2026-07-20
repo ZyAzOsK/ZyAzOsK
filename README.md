@@ -8,4 +8,8 @@
     <source media="(prefers-color-scheme: light)" srcset="siem_terminal.svg">
     <img alt="Terminal" src="siem_terminal.svg">
   </picture>
+
+  <br><br>
+
+  [![Last Visitor](https://lastclicker.onrender.com/status.svg)](https://lastclicker.onrender.com/click)
 </div>
