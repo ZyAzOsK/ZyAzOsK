@@ -11,15 +11,11 @@
     <img alt="Terminal" src="siem_terminal.svg">
   </picture>
 
-  <br>
+<br><br>
 
-  <img
-    src="Running-Pikachu-GIF.gif"
-    alt="Running Pikachu"
-    width="180"
-  >
+<img src="Running-Pikachu-GIF.gif" alt="Running Pikachu" width="180">
 
-  <br><br>
+<br><br>
 
   <a href="https://lastclicker.onrender.com/click">
     <img
