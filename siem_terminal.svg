@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-07-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-16232 </tspan>
+                <tspan class="vuln-name"> Check Point SmartConsole Improper Authentication Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-07-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-50522 </tspan>
+                <tspan class="vuln-name"> Microsoft SharePoint Deserialization of Untrusted Data Vulnerabil...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-07-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-60137 </tspan>
                 <tspan class="vuln-name"> WordPress Core SQL Injection Vulnerability</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-07-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-63030 </tspan>
                 <tspan class="vuln-name"> WordPress Core Interpretation Conflict Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-07-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-0770 </tspan>
                 <tspan class="vuln-name"> Langflow Inclusion of Functionality from Untrusted Control Sphere...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-07-21]</tspan>
-                <tspan class="cve-id"> CVE-2021-27137 </tspan>
-                <tspan class="vuln-name"> DD-WRT Stack-Based Buffer Overflow Vulnerability</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-07-16]</tspan>
-                <tspan class="cve-id"> CVE-2026-58644 </tspan>
-                <tspan class="vuln-name"> Microsoft SharePoint Deserialization of Untrusted Data Vulnerabil...</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-22 18:53:54 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-23 01:29:18 UTC</text>
         </svg>
