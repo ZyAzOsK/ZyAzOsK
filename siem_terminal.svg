@@ -52,27 +52,27 @@
                 <tspan class="vuln-name"> Fortinet FortiOS Exposure of Sensitive Information to an Unauthor...</tspan>
             </text>
             <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-07-27]</tspan>
+                <tspan class="cve-id"> CVE-2026-16812 </tspan>
+                <tspan class="vuln-name"> Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulner...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-07-22]</tspan>
                 <tspan class="cve-id"> CVE-2026-16232 </tspan>
                 <tspan class="vuln-name"> Check Point SmartConsole Improper Authentication Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-07-22]</tspan>
                 <tspan class="cve-id"> CVE-2026-50522 </tspan>
                 <tspan class="vuln-name"> Microsoft SharePoint Deserialization of Untrusted Data Vulnerabil...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-07-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-60137 </tspan>
                 <tspan class="vuln-name"> WordPress Core SQL Injection Vulnerability</tspan>
             </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-07-21]</tspan>
-                <tspan class="cve-id"> CVE-2026-63030 </tspan>
-                <tspan class="vuln-name"> WordPress Core Interpretation Conflict Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-27 19:08:18 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-07-28 01:20:53 UTC</text>
         </svg>
