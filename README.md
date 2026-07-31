@@ -17,9 +17,9 @@
         <img src="Running-Pikachu-GIF.gif" alt="Running Pikachu" width="100">
       </td>
       <td align="center">
-        <a href="https://lastclicker.onrender.com/click">
+        <a href="https://lastclicker.zyazosk.workers.dev/click">
           <img
-            src="https://lastclicker.onrender.com/status.svg"
+            src="https://lastclicker.zyazosk.workers.dev/status.svg"
             alt="Last Visitor"
           >
         </a>
