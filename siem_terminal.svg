@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-08-24]</tspan>
+                <tspan class="cve-id"> CVE-2026-21962 </tspan>
+                <tspan class="vuln-name"> Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Impro...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
                 <tspan class="timestamp">[2026-08-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-73570 </tspan>
                 <tspan class="vuln-name"> Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerabili...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-08-20]</tspan>
                 <tspan class="cve-id"> CVE-2026-72530 </tspan>
                 <tspan class="vuln-name"> TrueConf Server Code Injection Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-08-20]</tspan>
                 <tspan class="cve-id"> CVE-2026-72529 </tspan>
                 <tspan class="vuln-name"> TrueConf Server Missing Authentication for Critical Function Vuln...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-08-19]</tspan>
                 <tspan class="cve-id"> CVE-2026-64849 </tspan>
                 <tspan class="vuln-name"> MLflow Server-Side Request Forgery Vulnerability</tspan>
             </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-08-18]</tspan>
-                <tspan class="cve-id"> CVE-2026-33824 </tspan>
-                <tspan class="vuln-name"> Microsoft Internet Key Exchange (IKE) Service Extensions Double F...</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-08-24 18:21:26 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-08-25 00:33:20 UTC</text>
         </svg>
