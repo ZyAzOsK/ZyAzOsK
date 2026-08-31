@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-08-31]</tspan>
+                <tspan class="cve-id"> CVE-2026-82078 </tspan>
+                <tspan class="vuln-name"> PaperCut NG/MF Unsafe Reflection Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-08-31]</tspan>
+                <tspan class="cve-id"> CVE-2026-81578 </tspan>
+                <tspan class="vuln-name"> PaperCut NG/MF Missing Authentication for Critical Function Vulne...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-08-27]</tspan>
                 <tspan class="cve-id"> CVE-2023-49105 </tspan>
                 <tspan class="vuln-name"> ownCloud Improper Authentication Vulnerability</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-08-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-53362 </tspan>
                 <tspan class="vuln-name"> Linux Kernel Unspecified Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-08-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-66384 </tspan>
                 <tspan class="vuln-name"> JFrog Artifactory Improper Limitation of a Pathname to a Restrict...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-08-26]</tspan>
-                <tspan class="cve-id"> CVE-2021-23758 </tspan>
-                <tspan class="vuln-name"> Ajax.NET Professional Deserialization of Untrusted Data Vulnerabi...</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-08-26]</tspan>
-                <tspan class="cve-id"> CVE-2015-3246 </tspan>
-                <tspan class="vuln-name"> Red Hat Libuser Race Condition Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-08-31 12:00:04 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-08-31 18:53:33 UTC</text>
         </svg>
