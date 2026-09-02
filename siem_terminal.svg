@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
-                <tspan class="timestamp">[2026-08-31]</tspan>
-                <tspan class="cve-id"> CVE-2026-82078 </tspan>
-                <tspan class="vuln-name"> PaperCut NG/MF Unsafe Reflection Vulnerability</tspan>
+                <tspan class="timestamp">[2026-09-02]</tspan>
+                <tspan class="cve-id"> CVE-2026-59822 </tspan>
+                <tspan class="vuln-name"> BerriAI LiteLLM Improper Authentication Vulnerability</tspan>
             </text>
             <text x="0" y="35" class="font-mono">
-                <tspan class="timestamp">[2026-08-31]</tspan>
-                <tspan class="cve-id"> CVE-2026-81578 </tspan>
-                <tspan class="vuln-name"> PaperCut NG/MF Missing Authentication for Critical Function Vulne...</tspan>
+                <tspan class="timestamp">[2026-09-02]</tspan>
+                <tspan class="cve-id"> CVE-2026-48710 </tspan>
+                <tspan class="vuln-name"> Kludex Starlette HTTP Request/Response Smuggling Vulnerability</tspan>
             </text>
             <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-08-27]</tspan>
-                <tspan class="cve-id"> CVE-2023-49105 </tspan>
-                <tspan class="vuln-name"> ownCloud Improper Authentication Vulnerability</tspan>
+                <tspan class="timestamp">[2026-09-02]</tspan>
+                <tspan class="cve-id"> CVE-2026-49869 </tspan>
+                <tspan class="vuln-name"> Kestra OSS OS Command Injection Vulnerability</tspan>
             </text>
             <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-08-27]</tspan>
-                <tspan class="cve-id"> CVE-2026-53362 </tspan>
-                <tspan class="vuln-name"> Linux Kernel Unspecified Vulnerability</tspan>
+                <tspan class="timestamp">[2026-09-02]</tspan>
+                <tspan class="cve-id"> CVE-2026-82329 </tspan>
+                <tspan class="vuln-name"> JFrog Artifactory Improper Authentication Vulnerability</tspan>
             </text>
             <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-08-27]</tspan>
-                <tspan class="cve-id"> CVE-2026-66384 </tspan>
-                <tspan class="vuln-name"> JFrog Artifactory Improper Limitation of a Pathname to a Restrict...</tspan>
+                <tspan class="timestamp">[2026-09-02]</tspan>
+                <tspan class="cve-id"> CVE-2026-9586 </tspan>
+                <tspan class="vuln-name"> Sangoma Switchvox SQL Injection Vulnerability</tspan>
             </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-02 15:28:19 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-02 20:12:37 UTC</text>
         </svg>
