@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-09-09]</tspan>
+                <tspan class="cve-id"> CVE-2026-19490 </tspan>
+                <tspan class="vuln-name"> Citrix NetScaler Authentication Bypass Using an Alternate Path or...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-09-09]</tspan>
+                <tspan class="cve-id"> CVE-2025-25249 </tspan>
+                <tspan class="vuln-name"> Fortinet Multiple Products Heap-based Buffer Overflow Vulnerabili...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
+                <tspan class="timestamp">[2026-09-09]</tspan>
+                <tspan class="cve-id"> CVE-2026-87491 </tspan>
+                <tspan class="vuln-name"> Google Chromium V8 Out of Bounds Write Vulnerability</tspan>
+            </text>
+            <text x="0" y="105" class="font-mono">
+                <tspan class="timestamp">[2026-09-09]</tspan>
+                <tspan class="cve-id"> CVE-2026-20079 </tspan>
+                <tspan class="vuln-name"> Cisco Firewall Management Center Authentication Bypass Using an A...</tspan>
+            </text>
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-09-08]</tspan>
                 <tspan class="cve-id"> CVE-2026-75650 </tspan>
                 <tspan class="vuln-name"> Adobe Commerce and Magento Improper Neutralization of Special Ele...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
-                <tspan class="timestamp">[2026-09-08]</tspan>
-                <tspan class="cve-id"> CVE-2026-81963 </tspan>
-                <tspan class="vuln-name"> Microsoft Windows Link Following Vulnerability</tspan>
-            </text>
-            <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-09-08]</tspan>
-                <tspan class="cve-id"> CVE-2026-86218 </tspan>
-                <tspan class="vuln-name"> N-able N-central Static Code Injection Vulnerability</tspan>
-            </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-09-08]</tspan>
-                <tspan class="cve-id"> CVE-2026-85880 </tspan>
-                <tspan class="vuln-name"> Microsoft Windows Heap-Based Buffer Overflow Vulnerability</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-09-04]</tspan>
-                <tspan class="cve-id"> CVE-2026-85046 </tspan>
-                <tspan class="vuln-name"> Google Chromium V8 Type Confusion Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-09 15:26:40 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-09 20:08:02 UTC</text>
         </svg>
