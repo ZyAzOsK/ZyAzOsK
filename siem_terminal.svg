@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-09-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-86060 </tspan>
+                <tspan class="vuln-name"> MikroTik RouterOS Improper Neutralization of Argument Delimiters ...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-09-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-67277 </tspan>
+                <tspan class="vuln-name"> MikroTik RouterOS Missing Authentication for Critical Function Vu...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-09-09]</tspan>
                 <tspan class="cve-id"> CVE-2026-19490 </tspan>
                 <tspan class="vuln-name"> Citrix NetScaler Authentication Bypass Using an Alternate Path or...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-09-09]</tspan>
                 <tspan class="cve-id"> CVE-2025-25249 </tspan>
                 <tspan class="vuln-name"> Fortinet Multiple Products Heap-based Buffer Overflow Vulnerabili...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-09-09]</tspan>
                 <tspan class="cve-id"> CVE-2026-87491 </tspan>
                 <tspan class="vuln-name"> Google Chromium V8 Out of Bounds Write Vulnerability</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-09-09]</tspan>
-                <tspan class="cve-id"> CVE-2026-20079 </tspan>
-                <tspan class="vuln-name"> Cisco Firewall Management Center Authentication Bypass Using an A...</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-09-08]</tspan>
-                <tspan class="cve-id"> CVE-2026-75650 </tspan>
-                <tspan class="vuln-name"> Adobe Commerce and Magento Improper Neutralization of Special Ele...</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-10 15:21:44 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-10 20:09:49 UTC</text>
         </svg>
