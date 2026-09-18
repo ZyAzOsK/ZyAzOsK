@@ -57,22 +57,22 @@
                 <tspan class="vuln-name"> Linux Kernel Out-of-Bounds Write Vulnerability</tspan>
             </text>
             <text x="0" y="70" class="font-mono">
+                <tspan class="timestamp">[2026-09-18]</tspan>
+                <tspan class="cve-id"> CVE-2025-39682 </tspan>
+                <tspan class="vuln-name"> Linux Kernel Improper Check for Unusual or Exceptional Conditions...</tspan>
+            </text>
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-09-16]</tspan>
                 <tspan class="cve-id"> CVE-2026-58704 </tspan>
                 <tspan class="vuln-name"> Google Pixel Improper Authorization Vulnerability</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-09-16]</tspan>
                 <tspan class="cve-id"> CVE-2026-76460 </tspan>
                 <tspan class="vuln-name"> Cisco Identity Services Engine Incorrect Use of Privileged APIs V...</tspan>
             </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-09-16]</tspan>
-                <tspan class="cve-id"> CVE-2026-87886 </tspan>
-                <tspan class="vuln-name"> Acronis Backup Incorrect Default Permissions Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-18 15:19:31 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-18 20:04:46 UTC</text>
         </svg>
