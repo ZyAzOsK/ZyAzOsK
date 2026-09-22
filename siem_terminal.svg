@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-09-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-93952 </tspan>
+                <tspan class="vuln-name"> Arista VeloCloud Orchestrator Improper Input Validation Vulnerabi...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-09-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-94127 </tspan>
+                <tspan class="vuln-name"> F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
+                <tspan class="timestamp">[2026-09-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-93616 </tspan>
+                <tspan class="vuln-name"> Check Point Multiple Products Path Traversal Vulnerability</tspan>
+            </text>
+            <text x="0" y="105" class="font-mono">
+                <tspan class="timestamp">[2026-09-22]</tspan>
+                <tspan class="cve-id"> CVE-2026-85102 </tspan>
+                <tspan class="vuln-name"> Check Point Multiple Products Improper Certificate Validation Vul...</tspan>
+            </text>
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-09-21]</tspan>
                 <tspan class="cve-id"> CVE-2026-7273 </tspan>
                 <tspan class="vuln-name"> Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerab...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
-                <tspan class="timestamp">[2026-09-18]</tspan>
-                <tspan class="cve-id"> CVE-2025-39964 </tspan>
-                <tspan class="vuln-name"> Linux Kernel Race Condition Vulnerability</tspan>
-            </text>
-            <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-09-18]</tspan>
-                <tspan class="cve-id"> CVE-2026-53266 </tspan>
-                <tspan class="vuln-name"> Linux Kernel Out-of-Bounds Write Vulnerability</tspan>
-            </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-09-18]</tspan>
-                <tspan class="cve-id"> CVE-2025-39682 </tspan>
-                <tspan class="vuln-name"> Linux Kernel Improper Check for Unusual or Exceptional Conditions...</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-09-16]</tspan>
-                <tspan class="cve-id"> CVE-2026-58704 </tspan>
-                <tspan class="vuln-name"> Google Pixel Improper Authorization Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-22 15:51:27 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-22 20:35:06 UTC</text>
         </svg>
