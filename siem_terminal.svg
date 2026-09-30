@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-09-30]</tspan>
+                <tspan class="cve-id"> CVE-2026-76504 </tspan>
+                <tspan class="vuln-name"> Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
                 <tspan class="timestamp">[2026-09-29]</tspan>
                 <tspan class="cve-id"> CVE-2026-86950 </tspan>
                 <tspan class="vuln-name"> Apple Multiple Products Out-of-Bounds Write Vulnerability</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-09-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-88772 </tspan>
                 <tspan class="vuln-name"> Citrix NetScaler Improper Restriction of Operations within the Bo...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-09-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-88771 </tspan>
                 <tspan class="vuln-name"> Citrix NetScaler Improper Input Validation Vulnerability</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-09-25]</tspan>
                 <tspan class="cve-id"> CVE-2026-67279 </tspan>
                 <tspan class="vuln-name"> Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vul...</tspan>
             </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-09-25]</tspan>
-                <tspan class="cve-id"> CVE-2026-65660 </tspan>
-                <tspan class="vuln-name"> Microsoft SharePoint Code Injection Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-30 17:06:57 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-09-30 21:35:59 UTC</text>
         </svg>
