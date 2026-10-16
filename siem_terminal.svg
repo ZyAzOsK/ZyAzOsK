@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-10-16]</tspan>
+                <tspan class="cve-id"> CVE-2026-102764 </tspan>
+                <tspan class="vuln-name"> BeyondTrust Remote Support Authentication Bypass by Spoofing Vuln...</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-10-16]</tspan>
+                <tspan class="cve-id"> CVE-2025-61624 </tspan>
+                <tspan class="vuln-name"> Fortinet Multiple Products Path Traversal Vulnerability</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-10-15]</tspan>
                 <tspan class="cve-id"> CVE-2026-21589 </tspan>
                 <tspan class="vuln-name"> Atlassian Multiple Products Files or Directories Accessible to Ex...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-10-14]</tspan>
                 <tspan class="cve-id"> CVE-2026-105134 </tspan>
                 <tspan class="vuln-name"> Ahsay AhsayCBS Command Injection Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-10-14]</tspan>
                 <tspan class="cve-id"> CVE-2026-76519 </tspan>
                 <tspan class="vuln-name"> Cisco Secure Email Gateway Relative Path Traversal Vulnerability</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-10-14]</tspan>
-                <tspan class="cve-id"> CVE-2026-105133 </tspan>
-                <tspan class="vuln-name"> Ahsay AhsayCBS Improper Authentication Vulnerability</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-10-14]</tspan>
-                <tspan class="cve-id"> CVE-2026-0322 </tspan>
-                <tspan class="vuln-name"> Palo Alto Networks PAN-OS Code Injection Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-16 15:40:57 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-16 20:10:12 UTC</text>
         </svg>
