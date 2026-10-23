@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-10-23]</tspan>
+                <tspan class="cve-id"> CVE-2026-114625 </tspan>
+                <tspan class="vuln-name"> Arista VeloCloud Orchestrator SQL Injection Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-10-23]</tspan>
+                <tspan class="cve-id"> CVE-2026-110447 </tspan>
+                <tspan class="vuln-name"> Collabora Online – Built-in CODE Server OS Command Injection Vuln...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-10-20]</tspan>
                 <tspan class="cve-id"> CVE-2026-106931 </tspan>
                 <tspan class="vuln-name"> EG Secure Solutions SiteGuard Server Edition OS Command Injection...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-10-20]</tspan>
                 <tspan class="cve-id"> CVE-2026-96656 </tspan>
                 <tspan class="vuln-name"> Plex Media Server External Control of File Name or Path Vulnerabi...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-10-20]</tspan>
-                <tspan class="cve-id"> CVE-2026-96655 </tspan>
-                <tspan class="vuln-name"> Plex Media Server Server-Side Request Forgery (SSRF) Vulnerabilit...</tspan>
-            </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-10-20]</tspan>
-                <tspan class="cve-id"> CVE-2026-96654 </tspan>
-                <tspan class="vuln-name"> Plex Media Server Improper Neutralization of Encoded URI Schemes ...</tspan>
-            </text>
             <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-10-20]</tspan>
-                <tspan class="cve-id"> CVE-2026-96652 </tspan>
+                <tspan class="cve-id"> CVE-2026-96655 </tspan>
                 <tspan class="vuln-name"> Plex Media Server Server-Side Request Forgery (SSRF) Vulnerabilit...</tspan>
             </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-23 16:01:10 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-23 20:43:29 UTC</text>
         </svg>
