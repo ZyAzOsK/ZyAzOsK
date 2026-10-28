@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-10-28]</tspan>
+                <tspan class="cve-id"> CVE-2026-41709 </tspan>
+                <tspan class="vuln-name"> Broadcom VMWare ESX Insufficient Logging Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-10-28]</tspan>
+                <tspan class="cve-id"> CVE-2026-46300 </tspan>
+                <tspan class="vuln-name"> Linux Kernel Missing Initialization of a Variable Vulnerability</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-10-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-48356 </tspan>
                 <tspan class="vuln-name"> Adobe Commerce and Magento Unrestricted Upload of File with Dange...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-10-27]</tspan>
                 <tspan class="cve-id"> CVE-2026-111497 </tspan>
                 <tspan class="vuln-name"> Google Brotli Unchecked Return Value Vulnerability</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-10-26]</tspan>
                 <tspan class="cve-id"> CVE-2026-109618 </tspan>
                 <tspan class="vuln-name"> PHP Memory Corruption Vulnerability</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-10-26]</tspan>
-                <tspan class="cve-id"> CVE-2026-109619 </tspan>
-                <tspan class="vuln-name"> PHP Stale Internal Request-State Vulnerability</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-10-23]</tspan>
-                <tspan class="cve-id"> CVE-2026-114625 </tspan>
-                <tspan class="vuln-name"> Arista VeloCloud Orchestrator SQL Injection Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-28 17:31:32 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-10-28 21:57:24 UTC</text>
         </svg>
