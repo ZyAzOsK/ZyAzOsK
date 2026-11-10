@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
-                <tspan class="timestamp">[2026-11-09]</tspan>
-                <tspan class="cve-id"> CVE-2026-102895 </tspan>
-                <tspan class="vuln-name"> GPUStack Improper Authentication Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-124194 </tspan>
+                <tspan class="vuln-name"> Microsoft Office Outlook Missing User Interaction for Potentially...</tspan>
             </text>
             <text x="0" y="35" class="font-mono">
-                <tspan class="timestamp">[2026-11-09]</tspan>
-                <tspan class="cve-id"> CVE-2026-123158 </tspan>
-                <tspan class="vuln-name"> OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerabil...</tspan>
+                <tspan class="timestamp">[2026-11-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-111793 </tspan>
+                <tspan class="vuln-name"> Openwave Messaging Limited Webtop Media Transcoder Incorrect Reso...</tspan>
             </text>
             <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-11-09]</tspan>
-                <tspan class="cve-id"> CVE-2026-116779 </tspan>
-                <tspan class="vuln-name"> SignalWire FreeSwitch Code Injection Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-20320 </tspan>
+                <tspan class="vuln-name"> Cisco BroadWorks Improper Restriction of XML External Entity Refe...</tspan>
             </text>
             <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-11-09]</tspan>
-                <tspan class="cve-id"> CVE-2026-123218 </tspan>
-                <tspan class="vuln-name"> IBM Aspera Faspex Incorrect Authorization Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-111560 </tspan>
+                <tspan class="vuln-name"> Barracuda Networks Multiple Products OS Command Injection Vulnera...</tspan>
             </text>
             <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-11-06]</tspan>
-                <tspan class="cve-id"> CVE-2026-19868 </tspan>
-                <tspan class="vuln-name"> SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vuln...</tspan>
+                <tspan class="timestamp">[2026-11-10]</tspan>
+                <tspan class="cve-id"> CVE-2026-116606 </tspan>
+                <tspan class="vuln-name"> Barracuda Networks Email Security Gateway (ESG) Authentication By...</tspan>
             </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-10 13:52:55 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-10 22:37:05 UTC</text>
         </svg>
