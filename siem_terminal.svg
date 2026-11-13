@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-11-13]</tspan>
+                <tspan class="cve-id"> CVE-2026-114713 </tspan>
+                <tspan class="vuln-name"> UnrealIRCd Improper Neutralization of Delimiters Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-11-13]</tspan>
+                <tspan class="cve-id"> CVE-2026-123039 </tspan>
+                <tspan class="vuln-name"> Check Point Multiple Products Incorrect Permission Assignment for...</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
                 <tspan class="timestamp">[2026-11-10]</tspan>
                 <tspan class="cve-id"> CVE-2026-124194 </tspan>
                 <tspan class="vuln-name"> Microsoft Office Outlook Missing User Interaction for Potentially...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-11-10]</tspan>
                 <tspan class="cve-id"> CVE-2026-111793 </tspan>
                 <tspan class="vuln-name"> Openwave Messaging Limited Webtop Media Transcoder Incorrect Reso...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-11-10]</tspan>
                 <tspan class="cve-id"> CVE-2026-20320 </tspan>
                 <tspan class="vuln-name"> Cisco BroadWorks Improper Restriction of XML External Entity Refe...</tspan>
             </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-11-10]</tspan>
-                <tspan class="cve-id"> CVE-2026-111560 </tspan>
-                <tspan class="vuln-name"> Barracuda Networks Multiple Products OS Command Injection Vulnera...</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-11-10]</tspan>
-                <tspan class="cve-id"> CVE-2026-116606 </tspan>
-                <tspan class="vuln-name"> Barracuda Networks Email Security Gateway (ESG) Authentication By...</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-13 13:31:54 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-13 22:58:04 UTC</text>
         </svg>
