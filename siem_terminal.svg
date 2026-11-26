@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
-                <tspan class="timestamp">[2026-11-24]</tspan>
-                <tspan class="cve-id"> CVE-2026-132224 </tspan>
-                <tspan class="vuln-name"> Optimizely Web Experimentation External Control of Critical State...</tspan>
+                <tspan class="timestamp">[2026-11-25]</tspan>
+                <tspan class="cve-id"> CVE-2026-103406 </tspan>
+                <tspan class="vuln-name"> Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor ...</tspan>
             </text>
             <text x="0" y="35" class="font-mono">
-                <tspan class="timestamp">[2026-11-24]</tspan>
-                <tspan class="cve-id"> CVE-2026-131914 </tspan>
-                <tspan class="vuln-name"> Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-25]</tspan>
+                <tspan class="cve-id"> CVE-2026-133469 </tspan>
+                <tspan class="vuln-name"> Vates Xen Orchestra Improper Validation of Specified Type of Inpu...</tspan>
             </text>
             <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-11-24]</tspan>
-                <tspan class="cve-id"> CVE-2026-132165 </tspan>
-                <tspan class="vuln-name"> Drupal Core Remote Code Execution Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-25]</tspan>
+                <tspan class="cve-id"> CVE-2025-41450 </tspan>
+                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Improper Authentication Vulnerability</tspan>
             </text>
             <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-11-23]</tspan>
-                <tspan class="cve-id"> CVE-2026-133968 </tspan>
-                <tspan class="vuln-name"> Project MONAI MONAI Label Path Traversal Vulnerability</tspan>
+                <tspan class="timestamp">[2026-11-25]</tspan>
+                <tspan class="cve-id"> CVE-2023-25914 </tspan>
+                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Path Traversal Vulnerability</tspan>
             </text>
             <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-11-23]</tspan>
-                <tspan class="cve-id"> CVE-2026-134624 </tspan>
-                <tspan class="vuln-name"> N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF...</tspan>
+                <tspan class="timestamp">[2026-11-25]</tspan>
+                <tspan class="cve-id"> CVE-2023-25915 </tspan>
+                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Improper Input Validation Vulnerability</tspan>
             </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-25 01:41:34 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-26 01:14:45 UTC</text>
         </svg>
