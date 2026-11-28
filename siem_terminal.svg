@@ -47,32 +47,32 @@
             <g class="scroll-group">
                 
             <text x="0" y="0" class="font-mono">
+                <tspan class="timestamp">[2026-11-27]</tspan>
+                <tspan class="cve-id"> CVE-2026-120705 </tspan>
+                <tspan class="vuln-name"> OSGeo GeoServer XML Injection Vulnerability</tspan>
+            </text>
+            <text x="0" y="35" class="font-mono">
+                <tspan class="timestamp">[2026-11-27]</tspan>
+                <tspan class="cve-id"> CVE-2026-129243 </tspan>
+                <tspan class="vuln-name"> OSGeo GeoServer Incorrect Authorization Vulnerability</tspan>
+            </text>
+            <text x="0" y="70" class="font-mono">
+                <tspan class="timestamp">[2026-11-27]</tspan>
+                <tspan class="cve-id"> CVE-2026-136716 </tspan>
+                <tspan class="vuln-name"> Drupal Core Improper Check for Unusual or Exceptional Conditions ...</tspan>
+            </text>
+            <text x="0" y="105" class="font-mono">
                 <tspan class="timestamp">[2026-11-25]</tspan>
                 <tspan class="cve-id"> CVE-2026-103406 </tspan>
                 <tspan class="vuln-name"> Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor ...</tspan>
             </text>
-            <text x="0" y="35" class="font-mono">
+            <text x="0" y="140" class="font-mono">
                 <tspan class="timestamp">[2026-11-25]</tspan>
                 <tspan class="cve-id"> CVE-2026-133469 </tspan>
                 <tspan class="vuln-name"> Vates Xen Orchestra Improper Validation of Specified Type of Inpu...</tspan>
             </text>
-            <text x="0" y="70" class="font-mono">
-                <tspan class="timestamp">[2026-11-25]</tspan>
-                <tspan class="cve-id"> CVE-2025-41450 </tspan>
-                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Improper Authentication Vulnerability</tspan>
-            </text>
-            <text x="0" y="105" class="font-mono">
-                <tspan class="timestamp">[2026-11-25]</tspan>
-                <tspan class="cve-id"> CVE-2023-25914 </tspan>
-                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Path Traversal Vulnerability</tspan>
-            </text>
-            <text x="0" y="140" class="font-mono">
-                <tspan class="timestamp">[2026-11-25]</tspan>
-                <tspan class="cve-id"> CVE-2023-25915 </tspan>
-                <tspan class="vuln-name"> Danfoss AK-SM 800A Series Improper Input Validation Vulnerability</tspan>
-            </text>
             </g>
         </g>
 
-        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-27 15:43:43 UTC</text>
+        <text x="830" y="285" class="footer-text" text-anchor="end">System Last Polled: 2026-11-28 00:46:08 UTC</text>
         </svg>
